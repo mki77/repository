@@ -1,0 +1,1 @@
+This repository includes 7tsp icon themes, cursors and other stuff for Windows.
